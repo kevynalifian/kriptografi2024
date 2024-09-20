@@ -1,0 +1,2 @@
+This is a secret message that needs to be encrypted.
+Make sure to use a strong key for better security.
